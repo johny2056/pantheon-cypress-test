@@ -1,2 +1,2 @@
 # pantheon-cypress-test
-just for interveiw
+just for interview
